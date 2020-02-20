@@ -8,6 +8,7 @@
 This repository contains solutions for <b>LeetCode</b> problems 🔥. I'm doing these solutions on my spare time so new solutions will be committed overtime.
 
 </br>
+</br>
 
 |#| Title | Solution | Difficulty |
 | ------------- | ------------- | ------------- | ------------- |
@@ -26,7 +27,7 @@ This repository contains solutions for <b>LeetCode</b> problems 🔥. I'm doing 
 |938| Range Sum of BST| [938_Range_sum_of_BST.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/938_Range_sum_of_BST.js) | Easy  |
 
 
-</br>
+
 >⚡ Do you have better solution or want to contribute to this repository? Feel free to open a PR.
 
 </br>
