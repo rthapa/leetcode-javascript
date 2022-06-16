@@ -25,6 +25,12 @@ This repository contains solutions for <b>LeetCode</b> problems 🔥. I'm doing 
 |637| Average of Levels in Binary Tree| [637_Average_of_levels_in_binary_tree.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/637_Average_of_levels_in_binary_tree.js) | Easy  |
 |704| Binary Search| [704_binary_search.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/704_binary_search.js) | Easy  |
 |938| Range Sum of BST| [938_Range_sum_of_BST.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/938_Range_sum_of_BST.js) | Easy  |
+|707| Design Linked List| [707_Design_Linked_List.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/707_Design_Linked_List.js) | Medium  |
+|141| Linked List Cycle| [141_Linked_List_Cycle.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/141_Linked_List_Cycle.js) | Easy  |
+|142| Linked List Cycle II| [142_Linked_List_Cycle_II.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/142_Linked_List_Cycle_II.js) | Medium  |
+|287| Find the Duplicate Number| [287_Find_the_duplicate_number.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/287_Find_the_duplicate_number.js) | Medium  |
+|160| Inttersection of Two Linked Lists| [160_Intersection_of_two_linked_lists.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/160_Intersection_of_two_linked_lists.js) | Easy  |
+|19| Remove Nth Node From End of List| [19_Remove_Nth_Node_From_End_of_List.js](https://github.com/rthapa/leetcode-javascript/blob/master/solutions/19_Remove_Nth_Node_From_End_of_List.js) | Medium  |
 
 
 
